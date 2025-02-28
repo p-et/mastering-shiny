@@ -229,7 +229,7 @@ Imperative code is assertive; declarative code is passive-aggressive.
 
 Most of the time, declarative programming is tremendously freeing: you describe your overall goals, and the software figures out how to achieve them without further intervention.
 The downside is the occasional time where you know exactly what you want, but you can't figure out how to frame it in a way that the declarative system understands[^basic-reactivity-5].
-The goal of this book is to help you develop your understanding of the underlying theory so that happens as infrequently as possible.
+The goal of this book is to help you develop your understanding of the underlying theory so that it happens as infrequently as possible.
 
 [^basic-reactivity-5]: If you've ever struggled to get a ggplot2 legend to look exactly the way you want, you've encountered this problem!
 
